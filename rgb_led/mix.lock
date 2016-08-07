@@ -1,0 +1,3 @@
+%{"color_utils": {:hex, :color_utils, "0.2.0", "bbcf48e74e1da14bfc7b513a44fe518b5a7062d29e1ed3fd7cf0704e2f422a2f", [:mix], []},
+  "elixir_ale": {:hex, :elixir_ale, "0.5.5", "995f1ef812658cb938ae8258b7ecf6b1e8f76e367e50d61a1f2380435e71668b", [:mix, :make], [{:elixir_make, "~> 0.3", [hex: :elixir_make, optional: false]}]},
+  "elixir_make": {:hex, :elixir_make, "0.3.0", "285147fa943806eee82f6680b7b446b5569bcf3ee8328fa0a7c200ffc44fbaba", [:mix], []}}
